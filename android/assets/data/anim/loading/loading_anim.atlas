@@ -1,0 +1,33 @@
+
+loading_anim.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+loading1
+  rotate: false
+  xy: 1, 202
+  size: 473, 199
+  orig: 473, 199
+  offset: 0, 0
+  index: -1
+loading2
+  rotate: false
+  xy: 1, 1
+  size: 473, 199
+  orig: 473, 199
+  offset: 0, 0
+  index: -1
+loading3
+  rotate: false
+  xy: 476, 202
+  size: 473, 199
+  orig: 473, 199
+  offset: 0, 0
+  index: -1
+loading4
+  rotate: false
+  xy: 476, 1
+  size: 473, 199
+  orig: 473, 199
+  offset: 0, 0
+  index: -1

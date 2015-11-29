@@ -1,0 +1,75 @@
+
+ui_atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_logo
+  rotate: false
+  xy: 1, 743
+  size: 722, 1279
+  orig: 722, 1279
+  offset: 0, 0
+  index: -1
+game_over_bg
+  rotate: false
+  xy: 1, 98
+  size: 675, 643
+  orig: 675, 643
+  offset: 0, 0
+  index: -1
+nut_slider
+  rotate: false
+  xy: 1, 1
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+switch_on_off
+  rotate: false
+  xy: 80, 45
+  size: 132, 51
+  orig: 132, 51
+  offset: 0, 0
+  index: -1
+settings_bg
+  rotate: false
+  xy: 678, 101
+  size: 675, 640
+  orig: 675, 640
+  offset: 0, 0
+  index: -1
+pause_bg
+  rotate: false
+  xy: 1355, 1134
+  size: 675, 888
+  orig: 675, 888
+  offset: 0, 0
+  index: -1
+exit_bg
+  rotate: false
+  xy: 725, 760
+  size: 675, 372
+  orig: 675, 372
+  offset: 0, 0
+  index: -1
+score_bg
+  rotate: false
+  xy: 1355, 185
+  size: 675, 573
+  orig: 675, 573
+  offset: 0, 0
+  index: -1
+ready
+  rotate: false
+  xy: 1355, 56
+  size: 481, 127
+  orig: 481, 127
+  offset: 0, 0
+  index: -1
+setting_tree
+  rotate: false
+  xy: 725, 1239
+  size: 433, 783
+  orig: 433, 783
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,138 @@
+
+game_atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game_bg
+  rotate: false
+  xy: 1, 746
+  size: 722, 1279
+  orig: 722, 1279
+  offset: 0, 0
+  index: -1
+black_bg
+  rotate: false
+  xy: 725, 745
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+tree_pol
+  rotate: false
+  xy: 1447, 1121
+  size: 521, 904
+  orig: 521, 904
+  offset: 0, 0
+  index: -1
+tree_part1
+  rotate: false
+  xy: 1, 418
+  size: 721, 326
+  orig: 721, 326
+  offset: 0, 0
+  index: -1
+tree_part4
+  rotate: false
+  xy: 1447, 855
+  size: 470, 264
+  orig: 470, 264
+  offset: 0, 0
+  index: -1
+tree_part2
+  rotate: false
+  xy: 1, 216
+  size: 363, 200
+  orig: 363, 200
+  offset: 0, 0
+  index: -1
+old_man
+  rotate: false
+  xy: 724, 450
+  size: 237, 293
+  orig: 237, 293
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 1, 1
+  size: 301, 213
+  orig: 301, 213
+  offset: 0, 0
+  index: -1
+man
+  rotate: false
+  xy: 963, 492
+  size: 236, 251
+  orig: 236, 251
+  offset: 0, 0
+  index: -1
+ufo
+  rotate: false
+  xy: 366, 288
+  size: 248, 128
+  orig: 248, 128
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 1201, 479
+  size: 101, 264
+  orig: 101, 264
+  offset: 0, 0
+  index: -1
+tree_part3
+  rotate: false
+  xy: 1447, 741
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 366, 220
+  size: 182, 66
+  orig: 182, 66
+  offset: 0, 0
+  index: -1
+fine
+  rotate: false
+  xy: 1970, 1939
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+gift
+  rotate: false
+  xy: 304, 130
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 616, 351
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+acorn
+  rotate: false
+  xy: 1614, 787
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+gold_acorn
+  rotate: false
+  xy: 1304, 677
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+bad_acorn
+  rotate: false
+  xy: 366, 169
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1

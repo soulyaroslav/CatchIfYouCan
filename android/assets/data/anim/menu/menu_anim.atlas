@@ -1,0 +1,338 @@
+
+menu_anim.png
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 0
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 1
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 2
+
+menu_anim2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 3
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 4
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 5
+
+menu_anim3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 6
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 7
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 8
+
+menu_anim4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 9
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 10
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 11
+
+menu_anim5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 12
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 13
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 14
+
+menu_anim6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 15
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 16
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 17
+
+menu_anim7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 18
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 19
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 20
+
+menu_anim8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 21
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 22
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 23
+
+menu_anim9.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 24
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 25
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 26
+
+menu_anim10.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 27
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 28
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 29
+
+menu_anim11.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 30
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 31
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 32
+
+menu_anim12.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 33
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 34
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 35
+
+menu_anim13.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 36
+1
+  rotate: false
+  xy: 678, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 37
+1
+  rotate: false
+  xy: 1355, 1
+  size: 675, 1232
+  orig: 675, 1232
+  offset: 0, 0
+  index: 38

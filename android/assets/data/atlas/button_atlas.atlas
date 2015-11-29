@@ -1,0 +1,131 @@
+
+button_atlas.png
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+audio_off
+  rotate: false
+  xy: 1, 335
+  size: 152, 174
+  orig: 152, 174
+  offset: 0, 0
+  index: -1
+audio_on
+  rotate: false
+  xy: 1, 159
+  size: 152, 174
+  orig: 152, 174
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 155, 349
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 155, 187
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 317, 376
+  size: 170, 133
+  orig: 170, 133
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 317, 248
+  size: 160, 126
+  orig: 160, 126
+  offset: 0, 0
+  index: -1
+btn_move_bg
+  rotate: false
+  xy: 1, 22
+  size: 143, 135
+  orig: 143, 135
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 489, 408
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 652, 418
+  size: 167, 91
+  orig: 167, 91
+  offset: 0, 0
+  index: -1
+go_left
+  rotate: false
+  xy: 821, 408
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+go_right
+  rotate: false
+  xy: 317, 145
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 489, 305
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+return
+  rotate: false
+  xy: 479, 202
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+try_again
+  rotate: false
+  xy: 476, 99
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+cancel
+  rotate: false
+  xy: 155, 81
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: -1
+ok
+  rotate: false
+  xy: 309, 39
+  size: 152, 104
+  orig: 152, 104
+  offset: 0, 0
+  index: -1
+btn_move_player_left
+  rotate: false
+  xy: 463, 1
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+btn_move_player_right
+  rotate: false
+  xy: 525, 1
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
